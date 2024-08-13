@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjetosCS\\ControleDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\apagarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\apagarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\editarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\editarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApagarContato.cshtml",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T16:37:03.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarContato.cshtml",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T16:36:45.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriarContato.cshtml",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T16:36:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T16:11:07.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:10:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T16:08:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T16:04:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControleDeContatos\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:04:11.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Program.cs",
+              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "RelativeToolTip": "ControleDeContatos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:03:44.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

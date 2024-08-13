@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Listagem de Contatos";
+}
+
+
+<div class="text-center">
+    <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="CriarContato">Adicionar novo Contato</a>
+    </div>
+    <br />
+    <h1 class="display-4">Listagem de Contatos</h1>
+
+    <!-- Cria a tabela para exibir os Contatos-->
+    <table class="table">
+        <thead class="table-light">
+            <!-- Define o Cabeçalho da Tabela-->
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nome</th>
+                <th scope="col">Email</th>
+                <th scope="col">Celular</th>
+                <th scope="col">Ações</th>
+            </tr>
+        </thead>
+
+        <!-- Imprime os dados Cadastrados-->
+        <tbody class="table-group-divider">
+            <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Mark@gmail.com</td>
+                <td>31 98765-5678</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a role="button" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="EditarContato">Editar</a>
+                        <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Jacob@outlook.com</td>
+                <td>31 98667-0850</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a role="button" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="EditarContato">Editar</a>
+                        <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <th scope="row">3</th>
+                <td>Larry</td>
+                <td>Larry@gmail.com</td>
+                <td>31 97321-0921</td>
+                <td>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <a role="button" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="EditarContato">Editar</a>
+                        <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
