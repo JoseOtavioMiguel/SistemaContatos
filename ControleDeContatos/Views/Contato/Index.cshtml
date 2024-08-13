@@ -1,4 +1,6 @@
-﻿@{
+﻿@model List<ContatoModel>
+
+@{
     ViewData["Title"] = "Listagem de Contatos";
 }
 
@@ -25,42 +27,24 @@
 
         <!-- Imprime os dados Cadastrados-->
         <tbody class="table-group-divider">
-            <tr>
-                <th scope="row">1</th>
-                <td>Mark</td>
-                <td>Mark@gmail.com</td>
-                <td>31 98765-5678</td>
-                <td>
-                    <div class="btn-group" role="group" aria-label="Basic example">
-                        <a role="button" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="EditarContato">Editar</a>
-                        <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
-                    </div>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">2</th>
-                <td>Jacob</td>
-                <td>Jacob@outlook.com</td>
-                <td>31 98667-0850</td>
-                <td>
-                    <div class="btn-group" role="group" aria-label="Basic example">
-                        <a role="button" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="EditarContato">Editar</a>
-                        <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
-                    </div>
-                </td>
-            </tr>
-            <tr>
-                <th scope="row">3</th>
-                <td>Larry</td>
-                <td>Larry@gmail.com</td>
-                <td>31 97321-0921</td>
-                <td>
-                    <div class="btn-group" role="group" aria-label="Basic example">
-                        <a role="button" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="EditarContato">Editar</a>
-                        <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
-                    </div>
-                </td>
-            </tr>
+            @if(Model != null && Model.Any())
+            {
+                foreach (var contato in Model)
+                {
+                    <tr>
+                        <th scope="row">@contato.Id</th>
+                        <td>@contato.Nome</td>
+                        <td>@contato.Email</td>
+                        <td>@contato.Celular</td>
+                        <td>
+                            <div class="btn-group" role="group" aria-label="Basic example">
+                             <a role="button" type="button" class="btn btn-primary" asp-controller="Contato" asp-action="EditarContato">Editar</a>
+                             <a role="button" type="button" class="btn btn-danger" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
+                        </div>
+                    </td>
+                </tr>
+                }
+            }
         </tbody>
     </table>
 </div>

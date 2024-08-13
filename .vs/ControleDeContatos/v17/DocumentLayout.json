@@ -1,42 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ProjetosCS\\ControleDeContatos\\",
+  "WorkspaceRootPath": "C:\\RepositorioGIT\\SistemaContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\apagarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\apagarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\contato\\editarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\editarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\views\\contato\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\criarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\views\\contato\\editarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\editarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\migrations\\20240813214448_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\migrations\\20240813214448_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\migrations\\bancocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\migrations\\bancocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\views\\contato\\apagarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\contato\\apagarcontato.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\repositoriogit\\sistemacontatos\\controledecontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|c:\\projetoscs\\controledecontatos\\controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0695AD1F-3B9D-4E13-9592-2FBABE83600C}|ControleDeContatos\\ControleDeContatos.csproj|solutionrelative:controledecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +82,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:01:18.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "ControleDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T22:00:57.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ControleDeContatos\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:54:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BancoContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "RelativeToolTip": "ControleDeContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:45:32.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240813214448_CriandoTabelaContatos.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Migrations\\20240813214448_CriandoTabelaContatos.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Migrations\\20240813214448_CriandoTabelaContatos.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Migrations\\20240813214448_CriandoTabelaContatos.cs",
+              "RelativeToolTip": "ControleDeContatos\\Migrations\\20240813214448_CriandoTabelaContatos.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:44:49.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Models\\ContatoModel.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "ControleDeContatos\\Models\\ContatoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:38:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ControleDeContatos\\appsettings.Development.json",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\appsettings.Development.json",
+              "RelativeToolTip": "ControleDeContatos\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T21:23:13.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "ControleDeContatos\\appsettings.json",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\appsettings.json",
+              "RelativeToolTip": "ControleDeContatos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T21:23:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "ControleDeContatos\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Data\\BancoContext.cs",
+              "RelativeToolTip": "ControleDeContatos\\Data\\BancoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T19:12:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ApagarContato.cshtml",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
               "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
               "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\ApagarContato.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -63,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EditarContato.cshtml",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
               "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
               "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\EditarContato.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -76,50 +229,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CriarContato.cshtml",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
               "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
               "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\CriarContato.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T16:36:26.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
               "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Contato\\Index.cshtml",
               "RelativeToolTip": "ControleDeContatos\\Views\\Contato\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAB7AAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T16:11:07.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ContatoController.cs",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
               "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\ContatoController.cs",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Controllers\\ContatoController.cs",
               "RelativeToolTip": "ControleDeContatos\\Controllers\\ContatoController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAXAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T16:10:14.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ControleDeContatos\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -128,24 +281,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ControleDeContatos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwB4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-13T16:04:42.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ControleDeContatos\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ControleDeContatos\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,13 +307,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "DocumentMoniker": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Program.cs",
               "RelativeDocumentMoniker": "ControleDeContatos\\Program.cs",
-              "ToolTip": "C:\\ProjetosCS\\ControleDeContatos\\ControleDeContatos\\Program.cs",
+              "ToolTip": "C:\\RepositorioGIT\\SistemaContatos\\ControleDeContatos\\Program.cs",
               "RelativeToolTip": "ControleDeContatos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T16:03:44.05Z",
               "EditorCaption": ""
