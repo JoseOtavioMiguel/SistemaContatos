@@ -7,9 +7,15 @@ namespace ControleDeContatos.Repositorio
     {
         private readonly BancoContext _bancoContext;
 
-        public ContatoRepositorio(BancoContext bancoContext)
+        // Recebe o Id do cadastro pela View e retorna o valor 
+        public ContatoModel ListarPorId(int id)
         {
-            _bancoContext = bancoContext;
+            return _bancoContext.Contatos.FirstOrDefault(x => x.Id == id);
+        }
+
+        public ContatoRepositorio(BancoContext bancoContent)
+        {
+            this._bancoContext = bancoContent;
         }
 
         public ContatoModel Adicionar(ContatoModel contato)
@@ -19,9 +25,28 @@ namespace ControleDeContatos.Repositorio
             return contato;
         }
 
+        // Faz a listagem dos cadastros do Banco de Dados
         public List<ContatoModel> BuscarTodos()
         {
             return _bancoContext.Contatos.ToList();
+        }
+
+
+        // Método que atualiza as informações de cadastro no Banco de Dados
+        public ContatoModel Atualizar(ContatoModel contato)
+        {
+            ContatoModel contatoDB = ListarPorId(contato.Id);
+
+            if (contatoDB == null) throw new System.Exception("Houve um erro na atualização do contato");
+
+            contatoDB.Nome = contato.Nome;
+            contatoDB.Email = contato.Email;
+            contatoDB.Celular = contato.Celular;
+
+            _bancoContext.Contatos.Update(contatoDB);
+            _bancoContext.SaveChanges();
+
+            return contatoDB;
         }
     }
 }

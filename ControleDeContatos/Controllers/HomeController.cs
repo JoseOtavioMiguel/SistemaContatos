@@ -7,6 +7,8 @@ namespace ControleDeContatos.Controllers
     public class HomeController : Controller
     {
        
+        // Faz o gerenciamento das rotas para as páginas da aplicação
+
         public IActionResult Index()
         {
             return View();
