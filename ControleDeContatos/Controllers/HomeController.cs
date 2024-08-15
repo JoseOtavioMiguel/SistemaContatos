@@ -4,11 +4,10 @@ using System.Diagnostics;
 
 namespace ControleDeContatos.Controllers
 {
+    // Faz o gerenciamento das rotas para as páginas da aplicação
     public class HomeController : Controller
     {
        
-        // Faz o gerenciamento das rotas para as páginas da aplicação
-
         public IActionResult Index()
         {
             return View();

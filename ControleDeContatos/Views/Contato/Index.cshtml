@@ -10,18 +10,37 @@
         <a class="btn btn-primary" role="button" asp-controller="Contato" asp-action="CriarContato">Adicionar novo Contato</a>
     </div>
     <br />
+
+    @if(TempData["MensagemSucesso"]!= null)
+    {
+        <div class="alert alert-success" role="alert">
+            <button type="button" class="btn btn-danger btn-sm close-alert">X</button>
+            @TempData["MensagemSucesso"]
+        </div>
+    }
+
+    @if (TempData["MensagemErro"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            <button type="button" class="btn btn-danger btn-sm close-alert">X</button>
+            @TempData["MensagemErro"]
+        </div>
+    }
+
+    <br />
+
     <h1 class="display-4">Listagem de Contatos</h1>
 
     <!-- Cria a tabela para exibir os Contatos-->
-    <table class="table">
+    <table class="table" id="table-contatos">
         <thead class="table-light">
             <!-- Define o Cabeçalho da Tabela-->
             <tr>
-                <th scope="col">#</th>
-                <th scope="col">Nome</th>
-                <th scope="col">Email</th>
-                <th scope="col">Celular</th>
-                <th scope="col">Ações</th>
+                <th scope="col" style="text-align:center">#</th>
+                <th scope="col" style="text-align:center">Nome</th>
+                <th scope="col" style="text-align:center">Email</th>
+                <th scope="col" style="text-align:center">Celular</th>
+                <th scope="col" style="text-align:center">Ações</th>
             </tr>
         </thead>
 
@@ -32,10 +51,10 @@
                 foreach (ContatoModel contato in Model)
                 {
                     <tr>
-                        <th scope="row">@contato.Id</th>
+                        <th scope="row" style="text-align:center;">@contato.Id</th>
                         <td>@contato.Nome</td>
                         <td>@contato.Email</td>
-                        <td>@contato.Celular</td>
+                        <td style="text-align:center;">@contato.Celular</td>
                         <td>
                             <div class="btn-group" role="group" aria-label="Basic example">
                              <a role="button" type="button" class="btn btn-primary" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="EditarContato">Editar</a>

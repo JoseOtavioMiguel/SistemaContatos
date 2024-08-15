@@ -1,4 +1,4 @@
-select * from Contatos;
+use  DB_SistemaContatos;
 
-delete from Contatos
-where id = 7;
+select * from Contatos
+order by id desc;
