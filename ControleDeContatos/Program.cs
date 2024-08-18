@@ -1,6 +1,8 @@
 using ControleDeContatos.Data;
+using ControleDeContatos.Helper;
 using ControleDeContatos.Repositorio;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Win32;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,8 +16,19 @@ builder.Services.AddDbContext<BancoContext>(options =>
     
 });
 
-// Register the repository with the DI container
+
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+// Faz a chamada dos Repositorios quando for adicionado as Interfaces
 builder.Services.AddScoped<IContatoRepositorio, ContatoRepositorio>();
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
+builder.Services.AddScoped<ISessao, Sessao>();
+
+builder.Services.AddSession(o =>
+{
+    o.Cookie.HttpOnly = true;
+    o.Cookie.IsEssential = true;
+});
 
 
 var app = builder.Build();
@@ -31,9 +44,12 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseSession();
+
+// Define a tela Login como a padrão da aplicação
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Login}/{action=Index}/{id?}");
 
 app.Run();
 

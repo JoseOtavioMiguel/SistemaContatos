@@ -1,6 +1,6 @@
 ﻿@model ContatoModel;
 @{
-    ViewData["Title"] = "Editar o contato";
+    ViewData["Title"] = "Editar contato";
 }
 
 <div class="text-center">
@@ -26,7 +26,7 @@
         @Html.ValidationMessageFor(x => x.Celular)
     </div>
     
-    <button type="submit" class="btn btn-primary btn-block mt-2 d-grip gap-2">Atualizar</button>
+    <button type="submit" class="btn btn-primary w-100">Editar</button>
     <a class="btn btn-secondary d-grid gap-2 mt-2" asp-controller="Contato" asp-action="Index" role="button">Voltar</a>
 
 </form>

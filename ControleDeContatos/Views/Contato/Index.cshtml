@@ -56,9 +56,9 @@
                         <td>@contato.Email</td>
                         <td style="text-align:center;">@contato.Celular</td>
                         <td>
-                            <div class="btn-group" role="group" aria-label="Basic example">
+                            <div class="grid gap-3" role="group" aria-label="Basic example">
                              <a role="button" type="button" class="btn btn-primary" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="EditarContato">Editar</a>
-                             <a role="button" type="button" class="btn btn-danger" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
+                                <a role="button" type="button" class="btn btn-danger" asp-route-id="@contato.Id" asp-controller="Contato" asp-action="ApagarContato">Apagar</a>
                         </div>
                     </td>
                 </tr>

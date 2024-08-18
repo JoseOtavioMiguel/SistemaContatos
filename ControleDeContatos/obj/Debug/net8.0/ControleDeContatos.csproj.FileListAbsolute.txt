@@ -166,3 +166,4 @@ C:\RepositorioGIT\SistemaContatos\ControleDeContatos\obj\Debug\net8.0\scopedcss\
 C:\RepositorioGIT\SistemaContatos\ControleDeContatos\obj\Debug\net8.0\Controle.6EBC8F93.Up2Date
 C:\RepositorioGIT\SistemaContatos\ControleDeContatos\obj\Debug\net8.0\ControleDeContatos.genruntimeconfig.cache
 C:\RepositorioGIT\SistemaContatos\ControleDeContatos\obj\Debug\net8.0\ref\ControleDeContatos.dll
+C:\RepositorioGIT\SistemaContatos\ControleDeContatos\obj\Debug\net8.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
