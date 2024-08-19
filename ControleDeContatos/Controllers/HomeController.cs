@@ -1,9 +1,12 @@
+using ControleDeContatos.Filters;
 using ControleDeContatos.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace ControleDeContatos.Controllers
 {
+    [PaginaParaUsuarioLogado]
+
     // Faz o gerenciamento das rotas para as páginas da aplicação
     public class HomeController : Controller
     {

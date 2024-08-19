@@ -41,6 +41,7 @@
                 <th scope="col" style="text-align:center">Login</th>
                 <th scope="col" style="text-align:center">Email</th>
                 <th scope="col" style="text-align:center">Data de Cadastro</th>
+                <th scope="col" style="text-align:center">Perfil</th>
                 <th scope="col" style="text-align:center">Ações</th>
             </tr>
         </thead>
@@ -57,10 +58,11 @@
                         <td>@usuario.Login</td>
                         <td>@usuario.Email</td>
                         <td style="text-align:center;">@usuario.DataCadastro</td>
+                        <td>@usuario.Perfil</td>
                         <td>
-                            <div class="btn-group" role="group" aria-label="Basic example">
-                                <a role="button" type="button" class="btn btn-primary" asp-route-id="@usuario.Id" asp-controller="Usuario" asp-action="EditarUsuario">Editar</a>
-                                <a role="button" type="button" class="btn btn-danger" asp-route-id="@usuario.Id" asp-controller="Usuario" asp-action="ApagarUsuario">Apagar</a>
+                            <div class="grid gap-3" role="group" aria-label="Basic example">
+                                <a id="btn-menu" role="button" type="button" class="btn btn-primary" asp-route-id="@usuario.Id" asp-controller="Usuario" asp-action="EditarUsuario">Editar</a>
+                                <a id="btn-menu" role="button" type="button" class="btn btn-danger" asp-route-id="@usuario.Id" asp-controller="Usuario" asp-action="ApagarUsuario">Apagar</a>
                         </div>
                     </td>
                 </tr>
